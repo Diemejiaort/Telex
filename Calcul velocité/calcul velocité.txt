@@ -1,0 +1,11 @@
+
+Sprint 1 = 32 vélocité 	8 jours
+
+Sprint 2 = 39 vélocité	4 jours
+
+
+Calcul = 71 / 12 * 1 = 6 
+
+
+
+Vélocité des 3 sprints 32 + 39 + 21 = 92
